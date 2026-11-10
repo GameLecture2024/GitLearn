@@ -13,6 +13,7 @@ PR 히스토리 자체가 "문제 → 원인 → 해결"의 교재가 됩니다.
 먼저 **[운영 방식 가이드](docs/운영방식-가이드.md)** 에서 비교·선택하세요.
 - **B안 — 셀프 PR** — 개인 레포에서 자기 자신에게 PR. 입문·자습에 최적. → [`docs/structure-B-self-PR.md`](docs/structure-B-self-PR.md)
 - **A안 — Fork 분담** — 강사 레포 ↔ 학생 fork, 버그를 학생별 배정해 진짜 협업. → [`docs/structure-A-fork-분담.md`](docs/structure-A-fork-분담.md) (기본: [`structure-A-fork-PR.md`](docs/structure-A-fork-PR.md))
+  - 🤖 **과제 자동 생성**: "N명 계산기 샘플 만들어줘"로 분담 과제를 생성 → [`docs/과제생성기-설계안.md`](docs/과제생성기-설계안.md)
 - **C안 — GitHub Classroom** — 학생별 레포 자동 생성 + CI 자동 채점. 다수 수업용. → [`docs/structure-C-github-classroom.md`](docs/structure-C-github-classroom.md)
 
 ## 프로젝트 구조
